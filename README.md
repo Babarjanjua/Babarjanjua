@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Babar Janjua and I'm a Data Scientist from Pakistan</p>
+<p align="left">My name is Babar Janjua and I'm a Data Scientist</p>
 
 ###
 
