@@ -1,43 +1,109 @@
-<h1 align="left">Hey 👋 What's up?</h1>
+# Hi 👋 I'm Babar Janjua
 
-###
+### AI Engineer | Data Scientist | Agentic AI Developer
 
-<p align="left">My name is Babar Janjua and I'm a Data Scientist</p>
+I build AI-powered applications using Python, LangChain, LangGraph, OpenAI, vector databases, and modern data tools.
 
-###
+My focus is on developing intelligent systems that combine LLMs, tool calling, memory, retrieval, and real-world integrations to solve practical business and healthcare problems.
 
-<h2 align="left">About me</h2>
+---
 
-###
+## 🚀 Featured Projects
 
-<p align="left">✨ Currently working remotely through Upwork<br>📚 I'm currently gaining experience in Data Analytics and Data Science Projects<br>🎯 Goals: To Land a Job (remotely)<br>📫 How to Reach me: official.mail.babar@gmail.com<br>🎲 Fun fact: Age is just a number</p>
+### Gmail Agent Assistant
 
-###
+Built with LangGraph, OpenAI, Gmail API, Tavily Search, Memory Checkpointing, and Gradio.
 
-<h2 align="left">I code with</h2>
+**Features**
 
-###
+* Gmail Search
+* Gmail Draft Creation
+* Tool Routing
+* Conversation Memory
+* Web Research
+* Gradio Interface
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="jupyter logo"  />
-</div>
+### Business Email & Report Manager
 
-###
+AI-powered business assistant capable of:
 
-<div align="left">
-  <a href="www.linkedin.com/in/babarjanjua" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-  <a href="+923324148121" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="52" height="40" alt="whatsapp logo"  />
-  </a>
-  <a href="official.mail.babar@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
-  </a>
-</div>
+* Professional Email Writing
+* Report Generation
+* Meeting Summarization
+* Data Analysis
+* Client Communication Drafting
 
-###
+### Cardiology RAG Chatbot
+
+Medical Retrieval-Augmented Generation system built using:
+
+* LangChain
+* Pinecone
+* OpenAI
+* BioBERT Embeddings
+* Cardiology Guidelines and Textbooks
+
+---
+
+## 🛠 Tech Stack
+
+### AI & Machine Learning
+
+* OpenAI API
+* LangChain
+* LangGraph
+* RAG Systems
+* Hugging Face
+* Vector Databases
+* Prompt Engineering
+
+### Data Science
+
+* Python
+* Pandas
+* NumPy
+* Scikit-Learn
+* Jupyter Notebook
+
+### Databases
+
+* Pinecone
+* MySQL
+* FAISS
+* ChromaDB
+
+### Visualization & Analytics
+
+* Power BI
+* Excel
+* Matplotlib
+
+### Application Development
+
+* Gradio
+* Streamlit
+* Git
+* GitHub
+
+---
+
+## 📚 Currently Exploring
+
+* Agentic AI Systems
+* Multi-Agent Architectures
+* Advanced LangGraph Workflows
+* Production RAG Pipelines
+* AI Automation Solutions
+
+---
+
+## 📫 Connect With Me
+
+📧 Email: [official.mail.babar@gmail.com](gcbabarjjanjua1258@gmail.com)
+
+💼 LinkedIn:
+[www.linkedin.com/in/babarjanjua](http://www.linkedin.com/in/babarjanjua)
+
+---
+
+### “Building practical AI solutions that solve real-world problems.”
